@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.container{
+    margin: 20% 40% 40%;
+    background-color: rgb(0, 0, 0);
+    color: yellowgreen;
+    font-family: inherit;
+    padding: 20px;
+}
+#clock{
+    font-family: 'Anton', sans-serif;
+}
